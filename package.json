@@ -1,0 +1,37 @@
+{
+  "name": "@devtools-ai/wdio-sdk",
+  "version": "1.0.8",
+  "description": "Add SmartDriver visual testing AI to your WDIO tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-tools-ai/js-wdio-sdk.git"
+  },
+  "keywords": [
+    "visual",
+    "testing",
+    "AI",
+    "smartdriver",
+    "devtools",
+    "devtools_ai"
+  ],
+  "author": "Etienne DEGUINE <etienne@dev-tools.ai>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-tools-ai/js-wdio-sdk/issues"
+  },
+  "homepage": "https://github.com/dev-tools-ai/js-wdio-sdk#readme",
+  "dependencies": {
+    "@devtools-ai/js-sdk": "^0.1.1",
+    "axios": "^0.27.2",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.1",
+    "open": "^8.4.0",
+    "os": "^0.1.2",
+    "sharp": "^0.30.7",
+    "uuid": "^9.0.0"
+  }
+}
